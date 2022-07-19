@@ -1,1 +1,16 @@
  --Consultor: Leonardo Hernán Goldfarb
+
+ SELECT *
+ FROM COMP_RODC
+ INNER JOIN SIST_CIRP 
+ ON RIGHT ('0000'+ CONVERT (VARCHAR,RODC_DIVISION),4) + '-'
+ +'0000'  + '-' + RODC_TIPO_OC  + '-' + 
+ RIGHT ('0000000000' + CONVERT(VARCHAR,RODC_NUM_OC),10)= CIRP_PK
+ WHERE CIRP_SISTEMA = 'COMP'
+
+ 
+
+
+
+
+
