@@ -1,0 +1,15 @@
+C:\Proyectos DAM\Base DAM\DamCore\DamCore.Common\bin\Debug\DamCore.Common.dll
+C:\Proyectos DAM\Base DAM\DamCore\DamCore.Common\bin\Debug\DamCore.Common.pdb
+C:\Proyectos DAM\Base DAM\DamCore\DamCore.Common\obj\Debug\DamCore.Common.csprojResolveAssemblyReference.cache
+C:\Proyectos DAM\Base DAM\DamCore\DamCore.Common\obj\Debug\DamCore.Common.dll
+C:\Proyectos DAM\Base DAM\DamCore\DamCore.Common\obj\Debug\DamCore.Common.pdb
+C:\Proyectos DAM\Proyectos\Lier\Interfaz PagoFacil-DMP 310\Base DAM\Fuentes\DamCore\DamCore.Common\bin\Debug\DamCore.Common.dll
+C:\Proyectos DAM\Proyectos\Lier\Interfaz PagoFacil-DMP 310\Base DAM\Fuentes\DamCore\DamCore.Common\bin\Debug\DamCore.Common.pdb
+C:\Proyectos DAM\Proyectos\Lier\Interfaz PagoFacil-DMP 310\Base DAM\Fuentes\DamCore\DamCore.Common\obj\Debug\DamCore.Common.dll
+C:\Proyectos DAM\Proyectos\Lier\Interfaz PagoFacil-DMP 310\Base DAM\Fuentes\DamCore\DamCore.Common\obj\Debug\DamCore.Common.pdb
+L:\IntecSoftware\GCIADAM\Repositorio\1-Proyectos\Lier\Interfase Pago Facil\DMP 356\Base DAM\Fuentes\DamCore\DamCore.Common\bin\Debug\DamCore.Common.dll
+L:\IntecSoftware\GCIADAM\Repositorio\1-Proyectos\Lier\Interfase Pago Facil\DMP 356\Base DAM\Fuentes\DamCore\DamCore.Common\bin\Debug\DamCore.Common.pdb
+L:\IntecSoftware\GCIADAM\Repositorio\1-Proyectos\Lier\Interfase Pago Facil\DMP 356\Base DAM\Fuentes\DamCore\DamCore.Common\obj\Debug\DamCore.Common.dll
+L:\IntecSoftware\GCIADAM\Repositorio\1-Proyectos\Lier\Interfase Pago Facil\DMP 356\Base DAM\Fuentes\DamCore\DamCore.Common\obj\Debug\DamCore.Common.pdb
+L:\IntecSoftware\GCIADAM\Repositorio\1-Proyectos\Lier\Interfase Pago Facil\DMP 356\Base DAM\Fuentes\DamCore\DamCore.Common\obj\Debug\DamCore.Common.csprojAssemblyReference.cache
+L:\IntecSoftware\GCIADAM\Repositorio\1-Proyectos\Lier\Interfase Pago Facil\DMP 356\Base DAM\Fuentes\DamCore\DamCore.Common\obj\Debug\DamCore.Common.csproj.CoreCompileInputs.cache

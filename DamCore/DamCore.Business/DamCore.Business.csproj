@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{33DB831C-8E43-454B-A078-5138B84CC16F}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>DamCore.Business</RootNamespace>
+    <AssemblyName>DamCore.Business</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BusinessAyuda.cs" />
+    <Compile Include="BusinessParametrosGenerales.cs" />
+    <Compile Include="BusinessRecibos.cs" />
+    <Compile Include="Conectividad.cs" />
+    <Compile Include="LogEjecucionAutomatica.cs" />
+    <Compile Include="logErrores.cs" />
+    <Compile Include="LogInformacionEjecucion.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Seguridad.cs" />
+    <Compile Include="ValidacionesInicioProyecto.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DamCore.Common\DamCore.Common.csproj">
+      <Project>{52072e04-0d80-4460-b1eb-c1fc1d987dbb}</Project>
+      <Name>DamCore.Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DamCore.DamException\DamCore.DamException.csproj">
+      <Project>{f15d7c3d-c022-493c-8e35-4c9037525cbb}</Project>
+      <Name>DamCore.DamException</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DamCore.DataAccess\DamCore.DataAccess.csproj">
+      <Project>{f2222125-5377-4f05-82f2-fe188b4d7cee}</Project>
+      <Name>DamCore.DataAccess</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

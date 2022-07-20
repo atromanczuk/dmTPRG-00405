@@ -1,0 +1,68 @@
+C:\Proyectos DAM\Base DAM\DamCore\DamCore.WinForms\obj\Debug\DamCore.WinForms.csprojResolveAssemblyReference.cache
+C:\Proyectos DAM\Base DAM\DamCore\DamCore.WinForms\obj\Debug\DamCore.WinForms.Properties.Resources.resources
+C:\Proyectos DAM\Base DAM\DamCore\DamCore.WinForms\obj\Debug\DamCore.WinForms.csproj.GenerateResource.Cache
+C:\Proyectos DAM\Base DAM\DamCore\DamCore.WinForms\bin\Debug\DamCore.WinForms.exe
+C:\Proyectos DAM\Base DAM\DamCore\DamCore.WinForms\bin\Debug\DamCore.WinForms.pdb
+C:\Proyectos DAM\Base DAM\DamCore\DamCore.WinForms\bin\Debug\DamCore.Business.dll
+C:\Proyectos DAM\Base DAM\DamCore\DamCore.WinForms\bin\Debug\DamCore.Common.dll
+C:\Proyectos DAM\Base DAM\DamCore\DamCore.WinForms\bin\Debug\DamCore.DamException.dll
+C:\Proyectos DAM\Base DAM\DamCore\DamCore.WinForms\bin\Debug\DamCore.DataAccess.dll
+C:\Proyectos DAM\Base DAM\DamCore\DamCore.WinForms\bin\Debug\DamCore.Business.pdb
+C:\Proyectos DAM\Base DAM\DamCore\DamCore.WinForms\bin\Debug\DamCore.Common.pdb
+C:\Proyectos DAM\Base DAM\DamCore\DamCore.WinForms\bin\Debug\DamCore.DamException.pdb
+C:\Proyectos DAM\Base DAM\DamCore\DamCore.WinForms\bin\Debug\DamCore.DataAccess.pdb
+C:\Proyectos DAM\Base DAM\DamCore\DamCore.WinForms\obj\Debug\DamCore.WinForms.exe
+C:\Proyectos DAM\Base DAM\DamCore\DamCore.WinForms\obj\Debug\DamCore.WinForms.pdb
+C:\Proyectos DAM\Base DAM\DamCore\DamCore.WinForms\obj\Debug\DamCore.WinForms.frmAbout.resources
+C:\Proyectos DAM\Base DAM\DamCore\DamCore.WinForms\obj\Debug\DamCore.WinForms.frmAyuda.resources
+C:\Proyectos DAM\Base DAM\DamCore\DamCore.WinForms\obj\Debug\DamCore.WinForms.frmImpresionCredenciales.resources
+C:\Proyectos DAM\Base DAM\Fuentes\DamCore\DamCore.WinForms\obj\Debug\DamCore.WinForms.exe
+C:\Proyectos DAM\Base DAM\Fuentes\DamCore\DamCore.WinForms\obj\Debug\DamCore.WinForms.pdb
+D:\revisar\Proyectos DAM\Base DAM\Fuentes\DamCore\DamCore.WinForms\obj\Debug\DamCore.WinForms.exe
+D:\revisar\Proyectos DAM\Base DAM\Fuentes\DamCore\DamCore.WinForms\obj\Debug\DamCore.WinForms.pdb
+C:\Proyectos DAM\Proyectos\Lier\Interfaz PagoFacil-DMP 310\Base DAM\Fuentes\DamCore\DamCore.WinForms\bin\Debug\CCO-E505-0340A.exe.config
+C:\Proyectos DAM\Proyectos\Lier\Interfaz PagoFacil-DMP 310\Base DAM\Fuentes\DamCore\DamCore.WinForms\bin\Debug\CCO-E505-0340A.exe
+C:\Proyectos DAM\Proyectos\Lier\Interfaz PagoFacil-DMP 310\Base DAM\Fuentes\DamCore\DamCore.WinForms\bin\Debug\CCO-E505-0340A.pdb
+C:\Proyectos DAM\Proyectos\Lier\Interfaz PagoFacil-DMP 310\Base DAM\Fuentes\DamCore\DamCore.WinForms\bin\Debug\DamCore.Business.dll
+C:\Proyectos DAM\Proyectos\Lier\Interfaz PagoFacil-DMP 310\Base DAM\Fuentes\DamCore\DamCore.WinForms\bin\Debug\DamCore.Common.dll
+C:\Proyectos DAM\Proyectos\Lier\Interfaz PagoFacil-DMP 310\Base DAM\Fuentes\DamCore\DamCore.WinForms\bin\Debug\DamCore.DamException.dll
+C:\Proyectos DAM\Proyectos\Lier\Interfaz PagoFacil-DMP 310\Base DAM\Fuentes\DamCore\DamCore.WinForms\bin\Debug\DamCore.DataAccess.dll
+C:\Proyectos DAM\Proyectos\Lier\Interfaz PagoFacil-DMP 310\Base DAM\Fuentes\DamCore\DamCore.WinForms\bin\Debug\DamCore.Business.pdb
+C:\Proyectos DAM\Proyectos\Lier\Interfaz PagoFacil-DMP 310\Base DAM\Fuentes\DamCore\DamCore.WinForms\bin\Debug\DamCore.Common.pdb
+C:\Proyectos DAM\Proyectos\Lier\Interfaz PagoFacil-DMP 310\Base DAM\Fuentes\DamCore\DamCore.WinForms\bin\Debug\DamCore.DamException.pdb
+C:\Proyectos DAM\Proyectos\Lier\Interfaz PagoFacil-DMP 310\Base DAM\Fuentes\DamCore\DamCore.WinForms\bin\Debug\DamCore.DataAccess.pdb
+C:\Proyectos DAM\Proyectos\Lier\Interfaz PagoFacil-DMP 310\Base DAM\Fuentes\DamCore\DamCore.WinForms\obj\Debug\DamCore.WinForms.csprojResolveAssemblyReference.cache
+C:\Proyectos DAM\Proyectos\Lier\Interfaz PagoFacil-DMP 310\Base DAM\Fuentes\DamCore\DamCore.WinForms\obj\Debug\DamCore.WinForms.frmAbout.resources
+C:\Proyectos DAM\Proyectos\Lier\Interfaz PagoFacil-DMP 310\Base DAM\Fuentes\DamCore\DamCore.WinForms\obj\Debug\DamCore.WinForms.frmAyuda.resources
+C:\Proyectos DAM\Proyectos\Lier\Interfaz PagoFacil-DMP 310\Base DAM\Fuentes\DamCore\DamCore.WinForms\obj\Debug\DamCore.WinForms.frmImportadorPagoFacil.resources
+C:\Proyectos DAM\Proyectos\Lier\Interfaz PagoFacil-DMP 310\Base DAM\Fuentes\DamCore\DamCore.WinForms\obj\Debug\DamCore.WinForms.frmImpresionCredenciales.resources
+C:\Proyectos DAM\Proyectos\Lier\Interfaz PagoFacil-DMP 310\Base DAM\Fuentes\DamCore\DamCore.WinForms\obj\Debug\DamCore.WinForms.frmParametrosGenerales.resources
+C:\Proyectos DAM\Proyectos\Lier\Interfaz PagoFacil-DMP 310\Base DAM\Fuentes\DamCore\DamCore.WinForms\obj\Debug\DamCore.WinForms.frmValidacionDatosUsuario.resources
+C:\Proyectos DAM\Proyectos\Lier\Interfaz PagoFacil-DMP 310\Base DAM\Fuentes\DamCore\DamCore.WinForms\obj\Debug\DamCore.WinForms.Properties.Resources.resources
+C:\Proyectos DAM\Proyectos\Lier\Interfaz PagoFacil-DMP 310\Base DAM\Fuentes\DamCore\DamCore.WinForms\obj\Debug\DamCore.WinForms.csproj.GenerateResource.Cache
+C:\Proyectos DAM\Proyectos\Lier\Interfaz PagoFacil-DMP 310\Base DAM\Fuentes\DamCore\DamCore.WinForms\obj\Debug\CCO-E505-0340A.exe
+C:\Proyectos DAM\Proyectos\Lier\Interfaz PagoFacil-DMP 310\Base DAM\Fuentes\DamCore\DamCore.WinForms\obj\Debug\CCO-E505-0340A.pdb
+L:\IntecSoftware\GCIADAM\Repositorio\1-Proyectos\Lier\Interfase Pago Facil\DMP 356\Base DAM\Fuentes\DamCore\DamCore.WinForms\bin\Debug\CCO-E505-0340A.exe.config
+L:\IntecSoftware\GCIADAM\Repositorio\1-Proyectos\Lier\Interfase Pago Facil\DMP 356\Base DAM\Fuentes\DamCore\DamCore.WinForms\obj\Debug\CCO-E505-0340A.exe
+L:\IntecSoftware\GCIADAM\Repositorio\1-Proyectos\Lier\Interfase Pago Facil\DMP 356\Base DAM\Fuentes\DamCore\DamCore.WinForms\obj\Debug\CCO-E505-0340A.pdb
+L:\IntecSoftware\GCIADAM\Repositorio\1-Proyectos\Lier\Interfase Pago Facil\DMP 356\Base DAM\Fuentes\DamCore\DamCore.WinForms\bin\Debug\CCO-E505-0340A.exe
+L:\IntecSoftware\GCIADAM\Repositorio\1-Proyectos\Lier\Interfase Pago Facil\DMP 356\Base DAM\Fuentes\DamCore\DamCore.WinForms\bin\Debug\CCO-E505-0340A.pdb
+L:\IntecSoftware\GCIADAM\Repositorio\1-Proyectos\Lier\Interfase Pago Facil\DMP 356\Base DAM\Fuentes\DamCore\DamCore.WinForms\bin\Debug\DamCore.Business.dll
+L:\IntecSoftware\GCIADAM\Repositorio\1-Proyectos\Lier\Interfase Pago Facil\DMP 356\Base DAM\Fuentes\DamCore\DamCore.WinForms\bin\Debug\DamCore.Common.dll
+L:\IntecSoftware\GCIADAM\Repositorio\1-Proyectos\Lier\Interfase Pago Facil\DMP 356\Base DAM\Fuentes\DamCore\DamCore.WinForms\bin\Debug\DamCore.DamException.dll
+L:\IntecSoftware\GCIADAM\Repositorio\1-Proyectos\Lier\Interfase Pago Facil\DMP 356\Base DAM\Fuentes\DamCore\DamCore.WinForms\bin\Debug\DamCore.DataAccess.dll
+L:\IntecSoftware\GCIADAM\Repositorio\1-Proyectos\Lier\Interfase Pago Facil\DMP 356\Base DAM\Fuentes\DamCore\DamCore.WinForms\bin\Debug\DamCore.Business.pdb
+L:\IntecSoftware\GCIADAM\Repositorio\1-Proyectos\Lier\Interfase Pago Facil\DMP 356\Base DAM\Fuentes\DamCore\DamCore.WinForms\bin\Debug\DamCore.Common.pdb
+L:\IntecSoftware\GCIADAM\Repositorio\1-Proyectos\Lier\Interfase Pago Facil\DMP 356\Base DAM\Fuentes\DamCore\DamCore.WinForms\bin\Debug\DamCore.DamException.pdb
+L:\IntecSoftware\GCIADAM\Repositorio\1-Proyectos\Lier\Interfase Pago Facil\DMP 356\Base DAM\Fuentes\DamCore\DamCore.WinForms\bin\Debug\DamCore.DataAccess.pdb
+L:\IntecSoftware\GCIADAM\Repositorio\1-Proyectos\Lier\Interfase Pago Facil\DMP 356\Base DAM\Fuentes\DamCore\DamCore.WinForms\obj\Debug\DamCore.WinForms.frmAbout.resources
+L:\IntecSoftware\GCIADAM\Repositorio\1-Proyectos\Lier\Interfase Pago Facil\DMP 356\Base DAM\Fuentes\DamCore\DamCore.WinForms\obj\Debug\DamCore.WinForms.frmAyuda.resources
+L:\IntecSoftware\GCIADAM\Repositorio\1-Proyectos\Lier\Interfase Pago Facil\DMP 356\Base DAM\Fuentes\DamCore\DamCore.WinForms\obj\Debug\DamCore.WinForms.frmImportadorPagoFacil.resources
+L:\IntecSoftware\GCIADAM\Repositorio\1-Proyectos\Lier\Interfase Pago Facil\DMP 356\Base DAM\Fuentes\DamCore\DamCore.WinForms\obj\Debug\DamCore.WinForms.frmImpresionCredenciales.resources
+L:\IntecSoftware\GCIADAM\Repositorio\1-Proyectos\Lier\Interfase Pago Facil\DMP 356\Base DAM\Fuentes\DamCore\DamCore.WinForms\obj\Debug\DamCore.WinForms.frmParametrosGenerales.resources
+L:\IntecSoftware\GCIADAM\Repositorio\1-Proyectos\Lier\Interfase Pago Facil\DMP 356\Base DAM\Fuentes\DamCore\DamCore.WinForms\obj\Debug\DamCore.WinForms.frmValidacionDatosUsuario.resources
+L:\IntecSoftware\GCIADAM\Repositorio\1-Proyectos\Lier\Interfase Pago Facil\DMP 356\Base DAM\Fuentes\DamCore\DamCore.WinForms\obj\Debug\DamCore.WinForms.Properties.Resources.resources
+L:\IntecSoftware\GCIADAM\Repositorio\1-Proyectos\Lier\Interfase Pago Facil\DMP 356\Base DAM\Fuentes\DamCore\DamCore.WinForms\obj\Debug\DamCore.WinForms.csproj.GenerateResource.Cache
+L:\IntecSoftware\GCIADAM\Repositorio\1-Proyectos\Lier\Interfase Pago Facil\DMP 356\Base DAM\Fuentes\DamCore\DamCore.WinForms\obj\Debug\DamCore.WinForms.csprojAssemblyReference.cache
+L:\IntecSoftware\GCIADAM\Repositorio\1-Proyectos\Lier\Interfase Pago Facil\DMP 356\Base DAM\Fuentes\DamCore\DamCore.WinForms\obj\Debug\DamCore.WinForms.csproj.CoreCompileInputs.cache
+L:\IntecSoftware\GCIADAM\Repositorio\1-Proyectos\Lier\Interfase Pago Facil\DMP 356\Base DAM\Fuentes\DamCore\DamCore.WinForms\obj\Debug\DamCore.WinForms.csproj.CopyComplete

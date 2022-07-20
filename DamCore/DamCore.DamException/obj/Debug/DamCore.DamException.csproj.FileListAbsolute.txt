@@ -1,0 +1,15 @@
+C:\Proyectos DAM\Base DAM\DamCore\DamCore.DamException\bin\Debug\DamCore.DamException.dll
+C:\Proyectos DAM\Base DAM\DamCore\DamCore.DamException\bin\Debug\DamCore.DamException.pdb
+C:\Proyectos DAM\Base DAM\DamCore\DamCore.DamException\obj\Debug\DamCore.DamException.csprojResolveAssemblyReference.cache
+C:\Proyectos DAM\Base DAM\DamCore\DamCore.DamException\obj\Debug\DamCore.DamException.dll
+C:\Proyectos DAM\Base DAM\DamCore\DamCore.DamException\obj\Debug\DamCore.DamException.pdb
+C:\Proyectos DAM\Proyectos\Lier\Interfaz PagoFacil-DMP 310\Base DAM\Fuentes\DamCore\DamCore.DamException\bin\Debug\DamCore.DamException.dll
+C:\Proyectos DAM\Proyectos\Lier\Interfaz PagoFacil-DMP 310\Base DAM\Fuentes\DamCore\DamCore.DamException\bin\Debug\DamCore.DamException.pdb
+C:\Proyectos DAM\Proyectos\Lier\Interfaz PagoFacil-DMP 310\Base DAM\Fuentes\DamCore\DamCore.DamException\obj\Debug\DamCore.DamException.dll
+C:\Proyectos DAM\Proyectos\Lier\Interfaz PagoFacil-DMP 310\Base DAM\Fuentes\DamCore\DamCore.DamException\obj\Debug\DamCore.DamException.pdb
+L:\IntecSoftware\GCIADAM\Repositorio\1-Proyectos\Lier\Interfase Pago Facil\DMP 356\Base DAM\Fuentes\DamCore\DamCore.DamException\bin\Debug\DamCore.DamException.dll
+L:\IntecSoftware\GCIADAM\Repositorio\1-Proyectos\Lier\Interfase Pago Facil\DMP 356\Base DAM\Fuentes\DamCore\DamCore.DamException\bin\Debug\DamCore.DamException.pdb
+L:\IntecSoftware\GCIADAM\Repositorio\1-Proyectos\Lier\Interfase Pago Facil\DMP 356\Base DAM\Fuentes\DamCore\DamCore.DamException\obj\Debug\DamCore.DamException.dll
+L:\IntecSoftware\GCIADAM\Repositorio\1-Proyectos\Lier\Interfase Pago Facil\DMP 356\Base DAM\Fuentes\DamCore\DamCore.DamException\obj\Debug\DamCore.DamException.pdb
+L:\IntecSoftware\GCIADAM\Repositorio\1-Proyectos\Lier\Interfase Pago Facil\DMP 356\Base DAM\Fuentes\DamCore\DamCore.DamException\obj\Debug\DamCore.DamException.csprojAssemblyReference.cache
+L:\IntecSoftware\GCIADAM\Repositorio\1-Proyectos\Lier\Interfase Pago Facil\DMP 356\Base DAM\Fuentes\DamCore\DamCore.DamException\obj\Debug\DamCore.DamException.csproj.CoreCompileInputs.cache

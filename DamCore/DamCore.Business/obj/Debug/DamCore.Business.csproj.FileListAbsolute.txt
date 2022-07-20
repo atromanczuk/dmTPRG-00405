@@ -1,0 +1,35 @@
+C:\Proyectos DAM\Base DAM\DamCore\DamCore.Business\bin\Debug\DamCore.Business.dll
+C:\Proyectos DAM\Base DAM\DamCore\DamCore.Business\bin\Debug\DamCore.Business.pdb
+C:\Proyectos DAM\Base DAM\DamCore\DamCore.Business\bin\Debug\DamCore.Common.dll
+C:\Proyectos DAM\Base DAM\DamCore\DamCore.Business\bin\Debug\DamCore.DamException.dll
+C:\Proyectos DAM\Base DAM\DamCore\DamCore.Business\bin\Debug\DamCore.DataAccess.dll
+C:\Proyectos DAM\Base DAM\DamCore\DamCore.Business\bin\Debug\DamCore.Common.pdb
+C:\Proyectos DAM\Base DAM\DamCore\DamCore.Business\bin\Debug\DamCore.DamException.pdb
+C:\Proyectos DAM\Base DAM\DamCore\DamCore.Business\bin\Debug\DamCore.DataAccess.pdb
+C:\Proyectos DAM\Base DAM\DamCore\DamCore.Business\obj\Debug\DamCore.Business.csprojResolveAssemblyReference.cache
+C:\Proyectos DAM\Base DAM\DamCore\DamCore.Business\obj\Debug\DamCore.Business.dll
+C:\Proyectos DAM\Base DAM\DamCore\DamCore.Business\obj\Debug\DamCore.Business.pdb
+C:\Proyectos DAM\Proyectos\Lier\Interfaz PagoFacil-DMP 310\Base DAM\Fuentes\DamCore\DamCore.Business\bin\Debug\DamCore.Business.dll
+C:\Proyectos DAM\Proyectos\Lier\Interfaz PagoFacil-DMP 310\Base DAM\Fuentes\DamCore\DamCore.Business\bin\Debug\DamCore.Business.pdb
+C:\Proyectos DAM\Proyectos\Lier\Interfaz PagoFacil-DMP 310\Base DAM\Fuentes\DamCore\DamCore.Business\bin\Debug\DamCore.Common.dll
+C:\Proyectos DAM\Proyectos\Lier\Interfaz PagoFacil-DMP 310\Base DAM\Fuentes\DamCore\DamCore.Business\bin\Debug\DamCore.DamException.dll
+C:\Proyectos DAM\Proyectos\Lier\Interfaz PagoFacil-DMP 310\Base DAM\Fuentes\DamCore\DamCore.Business\bin\Debug\DamCore.DataAccess.dll
+C:\Proyectos DAM\Proyectos\Lier\Interfaz PagoFacil-DMP 310\Base DAM\Fuentes\DamCore\DamCore.Business\bin\Debug\DamCore.Common.pdb
+C:\Proyectos DAM\Proyectos\Lier\Interfaz PagoFacil-DMP 310\Base DAM\Fuentes\DamCore\DamCore.Business\bin\Debug\DamCore.DamException.pdb
+C:\Proyectos DAM\Proyectos\Lier\Interfaz PagoFacil-DMP 310\Base DAM\Fuentes\DamCore\DamCore.Business\bin\Debug\DamCore.DataAccess.pdb
+C:\Proyectos DAM\Proyectos\Lier\Interfaz PagoFacil-DMP 310\Base DAM\Fuentes\DamCore\DamCore.Business\obj\Debug\DamCore.Business.csprojResolveAssemblyReference.cache
+C:\Proyectos DAM\Proyectos\Lier\Interfaz PagoFacil-DMP 310\Base DAM\Fuentes\DamCore\DamCore.Business\obj\Debug\DamCore.Business.dll
+C:\Proyectos DAM\Proyectos\Lier\Interfaz PagoFacil-DMP 310\Base DAM\Fuentes\DamCore\DamCore.Business\obj\Debug\DamCore.Business.pdb
+L:\IntecSoftware\GCIADAM\Repositorio\1-Proyectos\Lier\Interfase Pago Facil\DMP 356\Base DAM\Fuentes\DamCore\DamCore.Business\bin\Debug\DamCore.Business.dll
+L:\IntecSoftware\GCIADAM\Repositorio\1-Proyectos\Lier\Interfase Pago Facil\DMP 356\Base DAM\Fuentes\DamCore\DamCore.Business\bin\Debug\DamCore.Business.pdb
+L:\IntecSoftware\GCIADAM\Repositorio\1-Proyectos\Lier\Interfase Pago Facil\DMP 356\Base DAM\Fuentes\DamCore\DamCore.Business\bin\Debug\DamCore.Common.dll
+L:\IntecSoftware\GCIADAM\Repositorio\1-Proyectos\Lier\Interfase Pago Facil\DMP 356\Base DAM\Fuentes\DamCore\DamCore.Business\bin\Debug\DamCore.DamException.dll
+L:\IntecSoftware\GCIADAM\Repositorio\1-Proyectos\Lier\Interfase Pago Facil\DMP 356\Base DAM\Fuentes\DamCore\DamCore.Business\bin\Debug\DamCore.DataAccess.dll
+L:\IntecSoftware\GCIADAM\Repositorio\1-Proyectos\Lier\Interfase Pago Facil\DMP 356\Base DAM\Fuentes\DamCore\DamCore.Business\bin\Debug\DamCore.Common.pdb
+L:\IntecSoftware\GCIADAM\Repositorio\1-Proyectos\Lier\Interfase Pago Facil\DMP 356\Base DAM\Fuentes\DamCore\DamCore.Business\bin\Debug\DamCore.DamException.pdb
+L:\IntecSoftware\GCIADAM\Repositorio\1-Proyectos\Lier\Interfase Pago Facil\DMP 356\Base DAM\Fuentes\DamCore\DamCore.Business\bin\Debug\DamCore.DataAccess.pdb
+L:\IntecSoftware\GCIADAM\Repositorio\1-Proyectos\Lier\Interfase Pago Facil\DMP 356\Base DAM\Fuentes\DamCore\DamCore.Business\obj\Debug\DamCore.Business.dll
+L:\IntecSoftware\GCIADAM\Repositorio\1-Proyectos\Lier\Interfase Pago Facil\DMP 356\Base DAM\Fuentes\DamCore\DamCore.Business\obj\Debug\DamCore.Business.pdb
+L:\IntecSoftware\GCIADAM\Repositorio\1-Proyectos\Lier\Interfase Pago Facil\DMP 356\Base DAM\Fuentes\DamCore\DamCore.Business\obj\Debug\DamCore.Business.csprojAssemblyReference.cache
+L:\IntecSoftware\GCIADAM\Repositorio\1-Proyectos\Lier\Interfase Pago Facil\DMP 356\Base DAM\Fuentes\DamCore\DamCore.Business\obj\Debug\DamCore.Business.csproj.CoreCompileInputs.cache
+L:\IntecSoftware\GCIADAM\Repositorio\1-Proyectos\Lier\Interfase Pago Facil\DMP 356\Base DAM\Fuentes\DamCore\DamCore.Business\obj\Debug\DamCore.Business.csproj.CopyComplete
